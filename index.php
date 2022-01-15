@@ -8,7 +8,7 @@ en er komen knoopen met het verwijderen en wijzigen van de ID"s -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Overzicht van gebruikers</title>
-    <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="CSS/master.css">
 </head>
 <body>
 
